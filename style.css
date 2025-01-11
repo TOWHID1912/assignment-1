@@ -5,8 +5,17 @@
   font-style: normal;
 }
 *{
-   margin-left: 40px;
-   margin-right: 40px;
+   margin-left: 30px;
+   margin-right: 30px;
+} 
+ /* *{
+    margin:0%;
+    padding: 0%;
+    
+ } */
+  
+body{
+    background-color: #F1F1F3;
 }
 
 .head{
@@ -76,6 +85,102 @@
     height: 201px;
     
 }
+.piller{
+    padding-top: 32px;
+    display: flex;
+
+}
+.pill{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    
+   
+    
+}
+.box{
+     background-color:#FFFFFF;
+     border-radius: 16px;     
+   
+}
+.light{
+     padding-top: 20px;
+     width:40px;
+     height:40px;
+}
+.lightpara{
+    font-weight: 300;
+    font-size: 14px;
+   
+
+}
+.pillerH{
+    font-weight: bold;
+    font-size:35px ;
+}
+.vision-section{
+    display: flex;
+   
+}
+.Digital{
+    background-color:rgba(84, 144, 245, 0.2) ;
+    border-radius: 16px;
+    width: 410.97;
+    height: 325;
+}
+.Green{
+    background-color:rgba(198, 228, 214, 1) ;
+    border-radius: 16px;
+    width: 410.97;
+    height: 325;
+    
+}
+.Modern{
+    background-color:rgba(247, 235, 207, 1) ;
+    border-radius: 16px;
+    width: 410.97;
+    height: 325;
+}
+.learn-More{
+    width: 122px;
+    height: 41px;
+    font-size: 16px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-weight: 500;
+    
+  
+}
+.dig{
+  background-color:#5490F5 ;
+  border-color:rgba(84, 144, 245, 0.2) ;
+}
+.gree{
+    background-color: #09A15C;
+   border-color : rgba(198, 228, 214, 1) ;
+
+}
+.mod{
+    background-color:#FFC239 ;
+    border-color: rgba(247, 235, 207, 1);
+   
+}
+.sec{
+    margin-bottom:32px ;
+}
+.quotation{
+    background-color:#FFFFFF;
+    width: 1232px;
+    height: 160px;
+    border-radius: 10px;
+    border: 10px;
+    padding: 25px;
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-origin: content-box, padding-box;
+    
+}
+
+   
 
     
 
