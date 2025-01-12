@@ -258,4 +258,51 @@ body{
 }
 .newss{
     margin-top: 32px;
+    margin-bottom: 80px;
 }
+.footer-part1{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.input{
+    display: flex;
+    justify-content: center;
+    margin-left: 104px;
+    margin-right: 104px;
+
+}
+.taka{ 
+  width: 160px;
+  height: 94px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  border: none;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+.taka:hover{
+    color: rgb(251, 248, 251);
+    background-color: #13a718;
+
+
+}
+.all{
+    margin-top: 32px;
+    margin-left: 104px;
+    margin-left:104px ;
+    width: 1032px;
+    height: 64px;
+    text-align: center;
+    border: none;
+    
+}
+.done{
+    margin-top: 32px;
+    margin-left: 590px;
+    margin-right: 590px;
+    margin-bottom: 80px;
+}
+
+
