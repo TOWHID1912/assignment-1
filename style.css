@@ -93,6 +93,8 @@ body{
 .pill{
     margin-top: 80px;
     margin-bottom: 80px;
+    margin-left: auto;
+    margin-right: auto;
     
    
     
@@ -153,6 +155,7 @@ body{
 .dig{
   background-color:#5490F5 ;
   border-color:rgba(84, 144, 245, 0.2) ;
+  margin-bottom: 30px;
 }
 .gree{
     background-color: #09A15C;
@@ -166,6 +169,8 @@ body{
 }
 .sec{
     margin-bottom:32px ;
+    margin-left: auto;
+    margin-right: auto;
 }
 .quotation{
     background-color:#FFFFFF;
@@ -173,14 +178,84 @@ body{
     height: 160px;
     border-radius: 10px;
     border: 10px;
-    padding: 25px;
+    padding-top: 25px;
+    padding-left: 20px;
     background-image: url(assets/quote-bg.png);
     background-repeat: no-repeat;
     background-origin: content-box, padding-box;
+    margin-left: auto;
+    margin-right: auto;
     
 }
-
-   
-
+.data-quota{
+    margin: 0 auto;
     
+    
+}
+.quohead{
+    position: relative;
+    margin-bottom: 0px;
+    margin-top: 0px; 
+}
+.para{
+    font-size: 15px;
+}
+.learn-More:hover{
+  color: red;
+  background-color: #F1F1F3;
+  font-weight: bold;
+  
+}
+.news{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 32px;
 
+}
+.image-and-text{
+    background-color: #FFFFFF;
+    width: 1280px;
+    height:402px;
+    border-radius: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+   
+}
+.redi{
+    border-radius: 24px;
+    width: 408px;
+    height: 306px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-left: 48px;
+}
+.write{
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-right: 48px;
+}
+.write-pe{
+    font-size: 16px;
+    font-weight: 300;
+    color: rgba(14, 14, 14, 0.7);
+}
+.read-more{
+    background-color: #006A50;
+    color: #FFFFFF;
+    border-radius: 8px;
+    width: 139px;
+    height: 48px;
+    border-color: #FFFFFF;
+}
+.read-more:hover{
+    color: rgb(251, 248, 251);
+  background-color: #c10af4;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+.newss{
+    margin-top: 32px;
+}
